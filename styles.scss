@@ -1,0 +1,40 @@
+/*-- scss:defaults --*/
+
+// Colors
+$amber30: #fde68a;
+$amber60: #d97706;
+$amber80: #92400e;
+$cream: #FDFBF7;
+$gray50: #6b7280;
+$gray80: #1f2937;
+
+$blue:    #007bff !default;
+$indigo:  #6610f2 !default;
+$purple:  #9b479f !default;
+$pink:    #e83e8c !default;
+$red:     #d9230f !default;
+$orange:  #d9831f !default;
+$yellow:  #ffc107 !default;
+$green:   #469408 !default;
+$teal:    #20c997 !default;
+$cyan:    #029acf !default;
+
+// Modify simplex theme from _variables.scss
+$primary: $amber60 !default;
+$warning:       $purple !default;
+$danger:        $red;
+$shine:        $amber30;
+
+// Base document colors
+$navbar-bg: $cream; // navbar
+$navbar-fg: $gray50; // navbar foreground elements
+$navbar-hl: $primary; // highlight color when hovering over navbar links
+$body-bg: #fcfcfc !default; // page background
+$body-color: $gray80; // page text 
+$footer-bg: $cream; // footer 
+$link-color: $primary; // hyperlinks 
+
+// Dropdowns
+
+$dropdown-link-hover-color: #fff !default;
+$dropdown-link-hover-bg: $primary;

@@ -42,7 +42,9 @@ website:
   
 format:
   html:
-    theme: simplex
+    theme: 
+      - simplex
+      - styles.scss
     highlight-style: a11y-dark
     css: styles.css
     toc: false
