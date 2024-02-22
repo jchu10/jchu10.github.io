@@ -1,0 +1,17 @@
+---
+title: "Scratchpad"
+subtitle: "Notes and resources for past and future selves"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 50
+  date-format: medium
+  categories: numbered
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: true
+---

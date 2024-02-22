@@ -1,0 +1,31 @@
+---
+title: "Publications"
+format:
+  html:
+    toc: true
+bibliography: publications.bib
+nocite: |
+  @*
+csl: apa-custom.csl
+filters:
+  - dociteproc
+  - boldname
+citeproc: false
+---
+
+For representative publications, see:
+
+- [Chu & Schulz (2020)](https://doi.org/10.1146/annurev-devpsych-070120-014806) Play, curiosity, and cognition
+
+- [Chu et al (preprint)](https://doi.org/10.31234/osf.io/zxbqr) In praise of folly: Flexible goals and human cognition
+
+<!-- ::: {.callout-note title="Disclaimer"} -->
+<!-- PDFs are provided to ensure timely dissemination of academic work. They can be downloaded for noncommercial, information purposes only, and may not be reposted without permission from the respective copyright holders. -->
+<!-- ::: -->
+
+::: {.callout-tip}
+{{< ai google-scholar >}} [Google Scholar](https://scholar.google.com/citations?user=jiitnhMAAAAJ) has the most comprehensive list of publications.
+:::
+
+::: {#refs}
+:::

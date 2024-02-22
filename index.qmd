@@ -1,35 +1,44 @@
 ---
 title: "Junyi Chu"
+subtitle: "Postdoctoral fellow, Harvard University"
 about: 
-  id: hero-heading
   template: trestles
-  image: assets/profilepic.png
+  image: images/profilepic.png
   image-shape: round
-  image-width: 10em
+  image-width: 12em
   links:
-    - icon: pin-map-fill
-      text: Cambridge, MA
-    - icon: "{{< iconify academicons google-scholar >}}"
-      text: Google Scholar
+    - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=jiitnhMAAAAJ
-    - icon: "{{< iconify academicons osf >}}"
-      text: Open Science Framework
+    - text: "{{< ai osf >}} Open Science Framework"
       href: https://osf.io/9avrt/
-    - icon: "{{< iconify fa6-brands github >}}"  
+    - icon: github
       text: GitHub
       href: http://github.com/jchu10
-    - icon: "{{< iconify fa6-brands linkedin >}}"
+    - icon: linkedin
       text: LinkedIn
       href: https://twitter.com
-      
+    - icon: envelope
+      text: junyichu10 [at] gmail
+      href: mailto:junyichu10@gmail.com
+format:
+  html:
+    page-layout: full
 ---
-
-Postdoctoral scientist, Harvard University
 
 Hi there! I am a cognitive scientist studying the **playful mind**. Play is a universal feature of early childhood, easily recognized yet tricky to define. Why do we play, and what is it good for? 
 
-My current research focuses on one distinguishing element of play: the creation of new problems and plans. I'm interested in questions such as: (1) How do people propose new goals, including games to play, problems to solve, and questions to ask? (2) How do we flexibly assess and select among these goals, and create new plans and hypotheses to achieve them? (3) When and why is it intrinsically rewarding to engage in these activities?
+Studying how people engage in a variety of playful behaviors allows us to answer many questions about human cognition, motivation, and development. 
+I'm specifically interested in:
 
-I tackle these questions using experimental, developmental, and computational methods. By characterizing the nature and development of creative problem-solving and problem-setting, I aim to broadly inform theories of learning, exploration, and discovery, as well as improve children's educational and life outcomes. 
+(1) How people flexibly create, select, and solve new problems;
+(2) When and why we are motivated to do so;
+(3) How these processes change as we interact, learn, and develop
 
-I am currently a postdoctoral researcher at Harvard University, working with Tomer Ullman and Elizabeth Bonawitz. I earned my Ph.D. in Cognitive Science at MIT working with Laura Schulz.
+I tackle these questions using experimental and computational methods. 
+In the long term, I aim to broadly inform theories of learning, exploration, and discovery, as well as improve children's educational and life outcomes. 
+
+Currently I am a postdoctoral researcher at the Harvard CoCoDev Labs, working with [Tomer Ullman](https://cocodev.org) and [Elizabeth Bonawitz](https://projects.iq.harvard.edu/ccdlab/home). 
+I earned my Ph.D. in Cognitive Science at MIT working with [Laura Schulz](https://eccl.mit.edu).
+
+<!-- My current research examines one distinguishing element of play: the creation of new problems and plans. I'm interested in questions such as: (1) How do people propose new goals, including games to play, problems to solve, and questions to ask? (2) How do we flexibly assess and select among these goals, and create new plans and hypotheses to achieve them? (3) When and why is it intrinsically rewarding to engage in these activities? -->
+

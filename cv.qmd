@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+View below, or see most up-to-date version [here](https://docs.google.com/document/d/e/2PACX-1vRfFcjUOKHMdhnqSI-2O4Hpoq6AnsOc8gH8VviJsL890WKH1sdQfpuV16f1nVBDZA/pub).
+
+<embed width="800px" height="600px" style="border:2px solid grey" src="pdf/JunyiChu_CV.pdf">

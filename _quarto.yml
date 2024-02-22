@@ -1,26 +1,48 @@
 project:
   type: website
+  output-dir: docs
 
 website:
+  favicon: images/favico.ico
   title: "Junyi Chu"
-  navbar:
-    right:
-      - publications.qmd
-      - cv.qmd
-      - contact.qmd
-  bread-crumbs: false
-  page-footer: 
-    left: "Copyright 2024, Junyi Chu"
-    background: dark
-    right: "Edit"
-  repo-url: https://github.com/jchu10/jchu10.github.io
-  repo-actions: [edit]
-  favicon: assets/favico.ico
+  site-url: https://jchu10.github.io
+  description: "Junyi Chu Academic Site"
   twitter-card: 
     creator: "@junyichu"
+
+  repo-url: https://github.com/jchu10/jchu10.github.io
+  repo-actions: [edit]
+
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - publications.qmd
+      - cv.qmd
+      - scratchpad.qmd
+      - text: Get in touch!
+        menu: 
+          - icon: calendar
+            text: Office hours
+            href: https://calendly.com/junyi-chu/open-door?back=1&month=2024-02
+            target: _blank
+          - icon: twitter
+            text: Twitter
+            href: https://twitter.com/junyichu
+            target: _blank
+          - icon: envelope
+            text: Email
+            href: mailto:junyichu10@gmail.com
+          
+  bread-crumbs: false
+
+  page-footer: 
+    right: "Built with ❤️ and [Quarto](https://quarto.org/)"
+    background: dark
   
 format:
   html:
     theme: simplex
+    highlight-style: a11y-dark
     css: styles.css
-    toc: true
+    toc: false
