@@ -1,6 +1,6 @@
 ---
 title: "Junyi Chu"
-subtitle: "Postdoctoral fellow, Harvard University"
+subtitle: "Postdoctoral fellow, Stanford University"
 about: 
   template: trestles
   image: images/profilepic.png
@@ -35,4 +35,4 @@ Studying how people engage in a variety of playful behaviors allows us to answer
 
 I tackle these questions using experimental and computational methods. In the long term, I aim to broadly inform theories of learning, exploration, and discovery, as well as improve children's educational and life outcomes.
 
-Currently I am a postdoctoral researcher at the Harvard CoCoDev Labs, working with [Tomer Ullman](https://cocodev.org) and [Elizabeth Bonawitz](https://projects.iq.harvard.edu/ccdlab/home). I earned my Ph.D. in Cognitive Science at MIT working with [Laura Schulz](https://eccl.mit.edu).
+Currently I am a postdoctoral researcher working with Judy Fan ([Cognitive Tools Lab](http://cogtoolslab.github.io/)) and Hyowon Gweon ([Social Learning Lab](http://sll.stanford.edu)). I earned my Ph.D. in Cognitive Science at MIT working with [Laura Schulz](https://eccl.mit.edu).

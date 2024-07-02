@@ -1438,13 +1438,6 @@
       </else-if>
     </choose>
   </macro>
-    <macro name="access-pdf">
-    <choose>
-      <if variable="pdf" match="any">
-        <text variable="pdf" prefix="[pdf](" suffix=")"/>
-      </if>
-    </choose>
-  </macro>
   <macro name="event">
     <!-- TODO: Add new item types (e.g., event, collection, performance) -->
     <choose>
@@ -1857,7 +1850,6 @@
               <text macro="publisher"/>
             </group>
             <text macro="access-doi"/>
-            <text macro="access-pdf"/>
             <text macro="publication-history"/>
           </group>
         </else>

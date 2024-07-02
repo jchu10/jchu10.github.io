@@ -1,6 +1,6 @@
 ---
 title: "Scratchpad"
-subtitle: "Notes and resources for past and future selves"
+subtitle: "gifts from past to future selves"
 listing:
   contents: posts
   sort: "date desc"

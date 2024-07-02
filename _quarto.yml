@@ -19,12 +19,11 @@ website:
         href: index.qmd
       - publications.qmd
       - cv.qmd
-      - scratchpad.qmd
       - text: Get in touch!
         menu: 
           - icon: calendar
             text: Office hours
-            href: https://calendly.com/junyi-chu/open-door?back=1&month=2024-02
+            href: https://calendly.com/junyi-chu/open-door?back=1
             target: _blank
           - icon: twitter
             text: Twitter

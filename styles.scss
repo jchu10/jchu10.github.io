@@ -31,10 +31,13 @@ $navbar-fg: $gray50; // navbar foreground elements
 $navbar-hl: $primary; // highlight color when hovering over navbar links
 $body-bg: #fcfcfc !default; // page background
 $body-color: $gray80; // page text 
-$link-color: $primary; // hyperlinks 
 $footer-bg: $gray80; // footer 
 $footer-fg: $cream;
 
 // Dropdowns
 $dropdown-link-hover-color: #fff !default;
 $dropdown-link-hover-bg: $primary;
+
+// links
+$link-color: $gray50;
+$link-hover-color: $primary;
