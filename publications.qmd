@@ -13,10 +13,6 @@ filters:
 citeproc: false
 ---
 
-::: {.callout-note}
-For representative publications, see [Chu & Schulz (2020)](https://doi.org/10.1146/annurev-devpsych-070120-014806) *"Play, curiosity, and cognition"* and [Chu, Tenenbaum & Schulz (2024)](https://doi.org/10.1016/j.tics.2024.03.006) *"In praise of folly: Flexible goals and human cognition"*
-:::
-
 ::: {.callout-tip}
 {{< ai google-scholar >}} [Google Scholar](https://scholar.google.com/citations?user=jiitnhMAAAAJ) has the most comprehensive list of publications.
 

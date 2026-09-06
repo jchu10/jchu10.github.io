@@ -18,12 +18,13 @@ website:
       - text: Home
         href: index.qmd
       - publications.qmd
-      - cv.qmd
+      - text: CV
+        href: pdf/JunyiChu_CV.pdf
       - text: Get in touch!
         menu: 
           - icon: calendar
             text: Office hours
-            href: https://calendar.app.google/Fj5gMEjnJcAEeE4i8
+            href: https://outlook.office.com/bookwithme/user/677abbc8a16a4f8a9f0257b4025564f9@stanford.edu/meetingtype/6Ba3Ala2zUWWLqCIe-WsuQ2?anonymous&ismsaljsauthenabled&ep=mlink
             target: _blank
           - icon: twitter
             text: Twitter
